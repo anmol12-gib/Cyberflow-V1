@@ -111,7 +111,7 @@ The project is fully completed and production-ready. It has successfully evolved
 
 ---
 
-##Getting Started
+### Getting Started
 Clone the repository
 git clone https://github.com/anmol12-gib/Cyberflow-V1.git
 cd Cyberflow-V1
@@ -120,9 +120,9 @@ npm install
 Run development server
 npm run dev
 
----
 
-##Use Cases
+
+### Use Cases
 Workflow automation design and simulation
 DevOps pipeline visualization
 Data engineering flow modeling
@@ -132,11 +132,11 @@ Future Enhancements
 
 ---
 
-##Acknowledgements
+### Acknowledgements
 
 Inspired by workflow automation platforms such as Node-RED, n8n, Zapier, and Apache Airflow.
 
-##Project Structure
+### Project Structure
 Cyberflow-V1/
 │
 ├── public/                     # Static assets
