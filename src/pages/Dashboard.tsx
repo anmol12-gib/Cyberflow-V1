@@ -329,7 +329,7 @@ export default function Dashboard({ onOpenProject, onNewProject }: any) {
                     className="flex items-center gap-3 text-slate-400 hover:text-white transition-colors font-medium text-sm group"
                   >
                     <Mail size={16} className="text-blue-500 group-hover:scale-110 transition-transform" /> 
-                    anmol.virmani.ug23@nsut.ac.in
+                    anmolvirmani13@gmail.com
                   </a>
                   
                   
