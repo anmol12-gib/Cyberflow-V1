@@ -57,7 +57,7 @@ export default function AuthModal({ onClose }: { onClose: () => void }) {
             {mode === "login" ? "Access Portal" : "New Identity"}
           </h2>
           <p className="text-slate-500 text-[9px] font-bold uppercase tracking-[0.2em] mt-1.5">
-            Cyberflow V2 // Terminal
+            Cyberflow V1 // Terminal
           </p>
         </div>
 
